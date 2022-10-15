@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>Page Title</title>
- <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/Workshop-Flyer.jpeg?raw=true" alt="Sky130 workshop" style="width:500px;"> 
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/Workshop-Flyer.jpeg?raw=true" alt="Sky130 workshop" style="width:700px;"> 
 </head>
 <body>
 
