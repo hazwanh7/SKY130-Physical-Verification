@@ -111,12 +111,12 @@ One more thing to insert into the testbench are 2 additional codes, we insert tw
 <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/codeshown_sym.png?raw=true" style="width:400px;"><br>
 The codes and final testbench will be:<br>
 <br>
-<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/tb_final.png?raw=true" style="width:800px;"> 
-
-
- 
- 
- 
+<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/tb_final.png?raw=true" style="width:800px;"> <br>
+<br>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/773e22be843c05a59893adc3d4ebdc4f0b1cf7c5/images/inverter_simulation.jpg" style="width:800px;"> <br>
+ <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschm_setlvs.jpg?raw=true" style="width:500px;"> <br>
+ <br>
  
   </p>
  
