@@ -23,7 +23,7 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
 <h2>Day 3 Lecture:  Front-end and back-end DRC</h2>
 <p>This is a paragraph.</p>
  
-<h2>Day 3 Lab: </h2>
+<h2>Day 3 Lab: Labs for all DRC rules </h2>
 <p>This is a paragraph.</p>
  
 <h2>Day 4 Lecture: Understanding PNR and physical verification </h2>
