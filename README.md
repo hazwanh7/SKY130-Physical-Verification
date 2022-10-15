@@ -75,10 +75,14 @@ To create a link between each tool folder and the SKY130 submodules in open_pdks
  
  <b>Some of useful Xschem shortcut keys: </b>
  m - move component(hover cursor on component first)<br>
- c - copy component
- Delete - Delete selected component
- w - insert wire to route
- q - edit component's parameters
+ c - copy component<br>
+ Del - Delete selected component<br>
+ w - insert wire to route<br>
+ q - edit component's parameters<br>
+ Insert - bring insert component window
+ 
+ We bring the component selection and insert window with 'Insert' key. Under the third library directory we choose <b>sky130_fd_pr</b> library to choose nmos and pmos transistors:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschem_compont1.jpg?raw=true" style="width:400px;"> <br>
  
   </p>
  
