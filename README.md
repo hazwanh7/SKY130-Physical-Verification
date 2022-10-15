@@ -35,11 +35,11 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  - I/O cells (ex: sky130_fd_io) <br>
  - 3rd party libraries (ex: sky130_ml_xx_hd) <br>
  
- The level of metal layers used in Sky130 PDK is shown below. The first metal layer (Titanium Nitride) from below is used for device's local interconnect. The next levels of metal layers (Aluminiumm) are used for inter-devices routing:  <br>
+The level of metal layers used in Sky130 PDK is shown below. The first metal layer (Titanium Nitride) from below is used for device's local interconnect. The next levels of metal layers (Aluminiumm) are used for inter-devices routing:  <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/sky130_layers.jpg?raw=true" style="width:700px;"> 
   <br>
- Hover to a component and press 'w' to insert and route <b>wire</b>, left-click to end the wire routing and press 'w' again to change wire routing direction. Complete wire route is as below:<br>
- <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_wire.jpg?raw=true" style="width:400px;"> 
+
+
 
  
  </p>
@@ -90,6 +90,9 @@ To create a link between each tool folder and the SKY130 submodules in open_pdks
  
  Then to insert pins compomemts, we choose the device library and choose: <b>ipin.sym, opin.sym, iopin.sym</b> components and arrange as below:<br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/transistors_IO.jpg?raw=true" style="width:400px;"> 
+ 
+ Hover to a component and press 'w' to insert and route <b>wire</b>, left-click to end the wire routing and press 'w' again to change wire routing direction. Complete wire route is as below:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_wire.jpg?raw=true" style="width:400px;"> 
  
  
   </p>
