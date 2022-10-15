@@ -13,24 +13,25 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  Introduction to Skywwater PDK
  The SkyWater Open Source PDK, provided by Google and the SkyWater Technology Foundry provide a fully open source Process Design Kit (PDK) which is used to design chips.<br> 
  
- The 130 (in nanometer) refers to the feature size of the process which is generally tells the minimum size of the transistor's gate length that can be processed as shown below: <br>
+ The 130  refers to the feature size (in nanometer) of the process which is generally tells the minimum size of the transistor's gate length that can be processed as shown below: <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/gate-length.jpg" style="width:300px;"> <br>
  <br>
   The PDK can be obtained from this Github link: https://github.com/google/skywater-pdk <br>
  PDK Documentations: https://skywater-pdk.readthedocs.io/en/main/
  <br>
  <h3>open_pdks</h3>
- open_pdks provided by  <a href="https://github.com/RTimothyEdwards/open_pdks">R. Timothy Edwards' github page</a> mainly uses the folowing tools to design a chip:
- Xschem - To draw the circuit's schematic 
- Ngspice - SPICE simulation tool
- Magic - Chip's layout drawing tool and do DRC
- Netgen - LVS tool to simulate the netlist extracted from a layout in Magic.
+ open_pdks provided by  <a href="https://github.com/RTimothyEdwards/open_pdks">R. Timothy Edwards' github page</a> mainly uses the folowing tools to design a chip:<br>
+ 
+ <b>Xschem</b> - To draw the circuit's schematic<br> 
+ <b>Ngspice</b> - SPICE simulation tool<br>
+ <b>Magic</b> - Chip's layout drawing tool and do DRC<br>
+ <b>Netgen</b> - LVS tool to simulate the netlist extracted from a layout in Magic<br>
 
 
  
  </p>
  
-<h2>Day 1 Lab: Tool installations and basic DRCLVS design flow</h2>
+<h2>Day 1 Lab: Tool installations and basic DRC/LVS design flow</h2>
 <p>This is a paragraph.</p>
  
 <h2>Day 2 Lecture Summary: Introduction to DRC and LVS</h2>
