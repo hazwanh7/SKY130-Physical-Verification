@@ -81,8 +81,15 @@ To create a link between each tool folder and the SKY130 submodules in open_pdks
  q - edit component's parameters<br>
  Insert - bring insert component window
  
- We bring the component selection and insert window with 'Insert' key. Under the third library directory we choose <b>sky130_fd_pr</b> library to choose nmos and pmos transistors:<br>
+ We bring the component selection and insert window with 'Insert' key. Under the Skywater library directory (third one) we choose <b>sky130_fd_pr</b> library to choose nmos and pmos transistors:<br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschem_compont1.jpg?raw=true" style="width:400px;"> <br>
+ We choose '<b>nfet01v8.sym</b>' which should have the extra 'B' terminal for bulk, and <b>pfet3_01v8.sym</b> with 3 terminals only as below: <br>
+
+  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/schem1.jpg?raw=true" style="width:200px;"> <br>
+ 
+ Then to insert pins compomemts, we choose the device library and choose: <b>ipin.sym, opin.sym, iopin.sym</b> components and arrange as below:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/transistors_IO.jpg?raw=true" style="width:400px;"> 
+ 
  
   </p>
  
