@@ -93,6 +93,25 @@ To create a link between each tool folder and the SKY130 submodules in open_pdks
  
  Hover to a component and press 'w' to insert and route <b>wire</b>, left-click to end the wire routing and press 'w' again to change wire routing direction. Complete wire route is as below:<br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_wire.jpg?raw=true" style="width:400px;"> 
+
+There are two thing done in the next image: 1) rename all I/O pins 2) change the width of the nmos and pmos 3) change the voltage operation. To do this, right click on the component or press 'q' to bring the edit window. The complete inverter schematic (nevermind the selected pmos):<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/complete_inverter.jpg?raw=true" style="width:400px;"> <br>
+ 
+ To create a symbol from the inverter schematic, choose the menu below and save as inverter.sym:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/makesymbol.jpg?raw=true" style="width:400px;"> <br>
+ 
+ After we have created and save the inverter as a symbol, load the symbol and should be as below. Note that it is not a complete testbench to simulate it:<br>
+  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_symbol.jpg?raw=true" style="width:400px;"> 
+ 
+ We want to complete the testbench of the inverter to simulate it, to do this we insert more components from 'devices' library: <b>Vsource.sym, gnd.sym, Opin.sym</b> other than wire and I/O pins. Note also we edit the voltage value (right-click) as <b>V2: 1.8, V1: "PWL(0 0 20n 0 900n 1.8)</b>"
+ <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_tb1.jpg?raw=true" style="width:700px;">  <br>
+
+
+
+
+ 
+ 
  
  
   </p>
