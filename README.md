@@ -11,7 +11,11 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
 <h2>Day 1 Lecture Summary: Introduction to SkyWater SKY130 and Open-Source EDA Tools</h2>
 <p>
  Introduction to Skywwater PDK
- The SkyWater Open Source PDK is a joint project between Google and the SkyWater Technology Foundry, which provides a fully open source Process Design Kit (PDK), and its related resources
+ The SkyWater Open Source PDK, provided by Google and the SkyWater Technology Foundry provide a fully open source Process Design Kit (PDK) which is used to design chips.<br> 
+ <br>
+ The PDK can be obtained from this Github link: <br>
+ https://github.com/google/skywater-pdk <br>
+ 
  </p>
  
 <h2>Day 1 Lab: Tool installations and basic DRCLVS design flow</h2>
