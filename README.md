@@ -10,7 +10,7 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
 
 <h2>Day 1 Lecture Summary: Introduction to SkyWater SKY130 and Open-Source EDA Tools</h2>
 <p>
- Introduction to Skywwater PDK
+ Introduction to Skywater PDK
  The SkyWater Open Source PDK, provided by Google and the SkyWater Technology Foundry provide a fully open source Process Design Kit (PDK) which is used to design chips.<br> 
  
  The 130  refers to the feature size (in nanometer) of the process which is generally tells the minimum size of the transistor's gate length that can be processed as shown below: <br>
@@ -46,10 +46,25 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
 <h2>Day 1 Lab: Tool installations and basic DRC/LVS design flow</h2>
 <p>
  Starting the lab, we check the availability of the installation of the main tools. The steps are:<br>
- 1. Open terminal: Right click anywhere (eg. Desktop) and click ' <b>Open Terminal</b>'.<br>
- 2. Type 'magic' to open Magic as below:<br>
- <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_open.jpg?raw=true" style="width:200px;"> <br>
- </p>
+ <br>
+ 1. Open terminal: Right click anywhere (eg. Desktop or Home directory) and click ' <b>Open Terminal</b>'.<br>
+ 2. Type 'magic' to open Magic as below. If Magic is opened, the installation is ok:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_open.jpg?raw=true" style="width:300px;"> <br>
+ 3. For other tools: Type and enter 'netgen', 'xschem' and 'ngspice' one by one to see if tool software can be started: <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/all_tools_starttest.jpg?raw=true" style="width:300px;"> <br>
+ <br>
+ The installed tools are not installed with Sky130 PDK yet. But first we will create a folder called 'inverter' and 3 folders inside the inverter folder. Create folder command in linux is 'mkdir' as shown below:<br>
+  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/3_folders.jpg?raw=true" style="width:400px;"> <br>
+ 
+ Then we will go to the next important step, which is to set up each directory for its respective tool to run properly with the SkyWater PDKs. <br>
+To create a link between each tool folder and the SKY130 submodules in open_pdks, we will use the command: 'ln -s /file_path'
+ The commands were done as below: <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/link_sky_pdk.jpg?raw=true" style="width:700px"> <br>
+  <br>
+ After entering the PDK linking command, start Xschem and Magic to see if the PDK is loaded properly:
+ 
+ 
+  </p>
  
 <h2>Day 2 Lecture Summary: Introduction to DRC and LVS</h2>
 <p>This is a paragraph.</p>
