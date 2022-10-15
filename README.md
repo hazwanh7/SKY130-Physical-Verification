@@ -1,4 +1,3 @@
-@@ -1,141 +0,0 @@
 # SKY130 Physical Verification
 
  <!DOCTYPE html>
