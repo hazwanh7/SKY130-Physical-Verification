@@ -23,9 +23,9 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  open_pdks provided by  <a href="https://github.com/RTimothyEdwards/open_pdks">R. Timothy Edwards' github page</a> mainly uses the folowing <b>tools</b> to design a chip:<br>
   <br>
  <b>Xschem</b> - To draw the circuit's schematic<br> 
- <b>Ngspice</b> - SPICE simulation tool<br>
- <b>Magic</b> - Chip's layout drawing tool and do DRC<br>
- <b>Netgen</b> - LVS tool to simulate the netlist extracted from a layout in Magic<br>
+ <b>Ngspice</b> - SPICE simulation validationl<br>
+ <b>Magic</b> - Chip's layout drawing tool and DRC validation<br>
+ <b>Netgen</b> - LVS validation<br>
  <br>
  
  The libraries contained in open_pdks: <br>
@@ -44,7 +44,12 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  </p>
  
 <h2>Day 1 Lab: Tool installations and basic DRC/LVS design flow</h2>
-<p>This is a paragraph.</p>
+<p>
+ Starting the lab, we check the availability of the installation of the main tools. The steps are:<br>
+ 1. Open terminal: Right click anywhere (eg. Desktop) and click ' <b>Open Terminal</b>'.<br>
+ 2. Type 'magic' to open Magic as below:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_open.jpg?raw=true" style="width:200px;"> <br>
+ </p>
  
 <h2>Day 2 Lecture Summary: Introduction to DRC and LVS</h2>
 <p>This is a paragraph.</p>
