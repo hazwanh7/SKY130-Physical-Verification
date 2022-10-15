@@ -19,9 +19,9 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
   The PDK can be obtained from this Github link: https://github.com/google/skywater-pdk <br>
  PDK Documentations: https://skywater-pdk.readthedocs.io/en/main/
  <br>
- <h3>open_pdks</h3>
- open_pdks provided by  <a href="https://github.com/RTimothyEdwards/open_pdks">R. Timothy Edwards' github page</a> mainly uses the folowing tools to design a chip:<br>
- 
+ <h3>open_pdks:</h3>
+ open_pdks provided by  <a href="https://github.com/RTimothyEdwards/open_pdks">R. Timothy Edwards' github page</a> mainly uses the folowing <b>tools</b> to design a chip:<br>
+  <br>
  <b>Xschem</b> - To draw the circuit's schematic<br> 
  <b>Ngspice</b> - SPICE simulation tool<br>
  <b>Magic</b> - Chip's layout drawing tool and do DRC<br>
