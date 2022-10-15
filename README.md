@@ -19,6 +19,9 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  
 <h2>Day 2 Lab : Labs for GDS readwrite, extraction, DRC, LVS and XOR setup</h2>
 <p>This is a paragraph.</p>
+ 
+<h2>Day 3 Lecture :  Front-end and back-end DRC</h2>
+<p>This is a paragraph.</p>
 
 </body>
 </html> 
