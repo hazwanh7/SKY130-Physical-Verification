@@ -117,6 +117,12 @@ The codes and final testbench will be:<br>
  <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschm_setlvs.jpg?raw=true" style="width:500px;"> <br>
  <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_impspice.jpg?raw=true" style="width:400px;">  <br>
+  <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/mag_placement.jpg?raw=true" style="width:400px;">   <br>
+   <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/mag_editparamtrans.jpg?raw=true" style="width:400px;"> <br>
+ <br>
  
   </p>
  
