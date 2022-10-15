@@ -61,8 +61,12 @@ To create a link between each tool folder and the SKY130 submodules in open_pdks
  The commands were done as below: <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/link_sky_pdk.jpg?raw=true" style="width:700px"> <br>
   <br>
- After entering the PDK linking command, start Xschem and Magic to see if the PDK is loaded properly:
- 
+ After entering the PDK linking command, we start Xschem and Magic to see if the PDK is loaded properly as shown below:<br>
+ Xschem with loaded Sky130A PDK, components selections are shown at start:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschem_pdk.jpg?raw=true" style="width:600px;"> <br>
+ <br>
+ Magic with loaded Sky130A PDK:<br>
+<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_pdk.jpg?raw=true" style="width:600px;">  <br>
  
   </p>
  
