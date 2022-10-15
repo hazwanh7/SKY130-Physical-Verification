@@ -26,13 +26,13 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
 <h2>Day 3 Lab: </h2>
 <p>This is a paragraph.</p>
  
-<h2>Day 4 Lecture:  </h2>
+<h2>Day 4 Lecture: Understanding PNR and physical verification </h2>
 <p>This is a paragraph.</p>
 
-<h2>Day 5 Lecture:  </h2>
+<h2>Day 5 Lecture: Fundamentals of LVS </h2>
 <p>This is a paragraph.</p>
  
-<h2>Day 5 Lab: </h2>
+<h2>Day 5 Lab: LVS Labs </h2>
 <p>This is a paragraph.</p>
 
 </body>
