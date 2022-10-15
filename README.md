@@ -107,8 +107,12 @@ There are two thing done in the next image: 1) rename all I/O pins 2) change the
  We want to complete the testbench of the inverter to simulate it, to do this we insert more components from 'devices' library: <b>Vsource.sym, gnd.sym, Opin.sym</b> other than wire and I/O pins. Note also we edit the voltage value (right-click) as <b>V2: 1.8, V1: "PWL(0 0 20n 0 900n 1.8)</b>"
  <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_tb1.jpg?raw=true" style="width:700px;">  <br>
-
-
+<br>
+One more thing to insert into the testbench are 2 additional codes, we insert two <b>'code_shown.sym'</b> components from devices library. <br>
+<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/codeshown_sym.png?raw=true" style="width:400px;"><br>
+The codes and final testbench will be:<br>
+<br>
+<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/tb_final.png?raw=true" style="width:800px;"> 
 
 
  
