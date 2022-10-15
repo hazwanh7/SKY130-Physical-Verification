@@ -38,7 +38,8 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  The level of metal layers used in Sky130 PDK is shown below. The first metal layer (Titanium Nitride) from below is used for device's local interconnect. The next levels of metal layers (Aluminiumm) are used for inter-devices routing:  <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/sky130_layers.jpg?raw=true" style="width:700px;"> 
   <br>
-
+ Hover to a component and press 'w' to insert and route <b>wire</b>, left-click to end the wire routing and press 'w' again to change wire routing direction. Complete wire route is as below:<br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverter_wire.jpg?raw=true" style="width:400px;"> 
 
  
  </p>
