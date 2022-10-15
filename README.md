@@ -64,10 +64,21 @@ To create a link between each tool folder and the SKY130 submodules in open_pdks
  After entering the PDK linking command, we start Xschem and Magic to see if the PDK is loaded properly as shown below:<br>
   <br>
  Xschem with loaded Sky130A PDK, components selections are shown at start:<br>
- <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschem_pdk.jpg?raw=true" style="width:600px;"> <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/xschem_pdk.jpg?raw=true" style="width:500px;"> <br>
  <br>
  Magic with loaded Sky130A PDK:<br>
-<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_pdk.jpg?raw=true" style="width:600px;">  <br>
+<img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/magic_pdk.jpg?raw=true" style="width:500px;">  <br>
+ 
+<h3>Creating an inverter</h3>
+ 
+ We will start creating an inverter by using the Xschem software to create the schematic and the symbol of an inverter.<br>
+ 
+ <b>Some of useful Xschem shortcut keys: </b>
+ m - move component(hover cursor on component first)<br>
+ c - copy component
+ Delete - Delete selected component
+ w - insert wire to route
+ q - edit component's parameters
  
   </p>
  
