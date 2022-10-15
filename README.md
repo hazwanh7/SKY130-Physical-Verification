@@ -125,9 +125,9 @@ The codes and final testbench will be:<br>
  <br>
  <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inerter_layoutfinal.jpg?raw=true" style="width:400px;">  <br>
   <br>
- <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverterext.jpg?raw=true" style="width:400px;">  <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/inverterext.jpg?raw=true" style="width:700px;">  <br>
    <br>
- <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/images2/netgen.jpg?raw=true" style="width:400px;"><br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/images2/netgen.jpg?raw=true" style="width:600px;"><br>
    <br>
  
   </p>
