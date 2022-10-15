@@ -26,6 +26,18 @@ Here is my sharing from this 5 days online workshop on using Skywater Sky130A PD
  <b>Ngspice</b> - SPICE simulation tool<br>
  <b>Magic</b> - Chip's layout drawing tool and do DRC<br>
  <b>Netgen</b> - LVS tool to simulate the netlist extracted from a layout in Magic<br>
+ <br>
+ 
+ The libraries contained in open_pdks: <br>
+
+ - Digital standard cells (ex: sky130_fd_sc_hd) <br>
+ - Primitive devices/analog (ex: sky130_fd_pr) <br>
+ - I/O cells (ex: sky130_fd_io) <br>
+ - 3rd party libraries (ex: sky130_ml_xx_hd) <br>
+ 
+ The level of metal layers used in Sky130 PDK is shown below. The first metal layer (Titanium Nitride) from below is used for device's local interconnect. The next levels of metal layers (Aluminiumm) are used for inter-devices routing:  <br>
+ <img src="https://github.com/hazwanh7/SKY130-Physical-Verification/blob/main/images/sky130_layers.jpg?raw=true" style="width:700px;"> 
+  <br>
 
 
  
