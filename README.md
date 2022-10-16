@@ -141,9 +141,9 @@ The codes and final testbench will be:<br>
  <br>
   <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_2.jpg" width="500"> <br>
 <br>
- <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_3.jpg" width="500"> <br>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_3.jpg" width="700"> <br>
 <br>
- <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_4.jpg" width="500"> <br>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_4.jpg" width="600"> <br>
 <br>
  <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_5.jpg" width="500"><br>
 </p>
