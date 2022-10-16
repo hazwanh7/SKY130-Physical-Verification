@@ -136,7 +136,17 @@ The codes and final testbench will be:<br>
 <p>This is a paragraph.</p>
  
 <h2>Day 2 Lab: Labs for GDS readwrite, extraction, DRC, LVS and XOR setup</h2>
-<p>This is a paragraph.</p>
+<p>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_1.jpg" width="500"><br> 
+ <br>
+  <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_2.jpg" width="500"> <br>
+<br>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_3.jpg" width="500"> <br>
+<br>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_4.jpg" width="500"> <br>
+<br>
+ <img src="https://raw.githubusercontent.com/hazwanh7/SKY130-Physical-Verification/d6b637a39a606e40584a437bfb4f571c1153a847/l2_5.jpg" width="500"><br>
+</p>
  
 <h2>Day 3 Lecture Summary:  Front-end and back-end DRC</h2>
 <p>This is a paragraph.</p>
